@@ -3,7 +3,6 @@ import { Text, useWindowDimensions, View } from "react-native";
 import newsData from "@/assets/news.json";
 import { Image } from "expo-image";
 import RenderHtml from "react-native-render-html";
-import { mapToImageLink } from "../../util/map-to-image-link";
 
 export default function News() {
   const { id } = useLocalSearchParams();
@@ -18,7 +17,7 @@ export default function News() {
     <View>
       <Image
         style={{ width, height: 250 }}
-        source={mapToImageLink(selectedNews.image_link)}
+        source={{ uri: selectedNews.image_link }}
       />
       <Text style={{ alignSelf: "center", fontWeight: "bold", fontSize: 20 }}>
         {selectedNews.title_news}

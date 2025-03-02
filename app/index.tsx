@@ -9,7 +9,6 @@ import {
 import newsData from "@/assets/news.json";
 import { router } from "expo-router";
 import { Image } from "expo-image";
-import { mapToImageLink } from "../util/map-to-image-link";
 import Carousel from "react-native-reanimated-carousel";
 
 export default function Index() {
@@ -41,7 +40,7 @@ export default function Index() {
                 borderRadius: 10,
                 height: 250,
               }}
-              source={mapToImageLink(item.image_link)}
+              source={{ uri: item.image_link }}
             />
           </Pressable>
         )}
@@ -68,7 +67,7 @@ export default function Index() {
             >
               <Image
                 style={{ width: 75, height: 75 }}
-                source={mapToImageLink(item.image_link)}
+                source={{ uri: item.image_link }}
               />
               <Text>{item.title_news}</Text>
             </View>

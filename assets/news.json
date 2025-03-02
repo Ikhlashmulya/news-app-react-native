@@ -4,25 +4,25 @@
             "id": "cheese1",
             "title_news": "Rice Cooker Cottage Cheese Cake",
             "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "cheese"
+            "image_link": "https://fhafnb.com/wp-content/uploads/2023/09/types-of-cheese-and-uses-1.jpg"
         },
         {
             "id": "croissants1",
             "title_news": "Easy butter croissants",
             "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "croissants"
+            "image_link": "https://youngontop.com/wp-content/uploads/2024/06/pexels-elkady-3892469-scaled.jpg"
         },
         {
             "id": "steak1",
             "title_news": "Garlic butter steak bites",
             "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "steak"
+            "image_link": "https://nibble-images.b-cdn.net/nibble/original_images/steak_angus_0eaae9a924.jpg"
         },
         {
             "id": "vegetable1",
             "title_news": "Vegetable chow mein",
             "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "vegetable"
+            "image_link": "https://www.fooddudes.ie/wp-content/uploads/2020/04/vegetable_FoodDudess.jpg"
         }
     ]
 }
