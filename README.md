@@ -1,5 +1,10 @@
 # Mata kuliah mobile programming
 
+## ScreenShot
+
+![screenshot1](assets/screenshot/screenshot1.jpg)
+![screenshot2](assets/screenshot/screenshot2.jpg)
+
 ## Get started
 
 1. Install dependencies

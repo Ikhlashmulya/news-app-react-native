@@ -1,5 +1,5 @@
 import { useLocalSearchParams } from "expo-router";
-import { Text, useWindowDimensions, View } from "react-native";
+import { ScrollView, Text, useWindowDimensions, View } from "react-native";
 import newsData from "@/assets/news.json";
 import { Image } from "expo-image";
 import RenderHtml from "react-native-render-html";
@@ -14,17 +14,24 @@ export default function News() {
   const { width } = useWindowDimensions();
 
   return (
-    <View>
+    <ScrollView>
       <Image
         style={{ width, height: 250 }}
         source={{ uri: selectedNews.image_link }}
       />
-      <Text style={{ alignSelf: "center", fontWeight: "bold", fontSize: 20 }}>
+      <Text
+        style={{
+          alignSelf: "center",
+          fontWeight: "bold",
+          fontSize: 20,
+          paddingHorizontal: 10,
+        }}
+      >
         {selectedNews.title_news}
       </Text>
-      <View>
+      <View style={{ paddingHorizontal: 10, marginBottom: 35 }}>
         <RenderHtml contentWidth={width} source={source} />
       </View>
-    </View>
+    </ScrollView>
   );
 }

@@ -1,28 +1,28 @@
 {
-    "DATA_NEWS": [
-        {
-            "id": "cheese1",
-            "title_news": "Rice Cooker Cottage Cheese Cake",
-            "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "https://fhafnb.com/wp-content/uploads/2023/09/types-of-cheese-and-uses-1.jpg"
-        },
-        {
-            "id": "croissants1",
-            "title_news": "Easy butter croissants",
-            "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "https://youngontop.com/wp-content/uploads/2024/06/pexels-elkady-3892469-scaled.jpg"
-        },
-        {
-            "id": "steak1",
-            "title_news": "Garlic butter steak bites",
-            "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "https://nibble-images.b-cdn.net/nibble/original_images/steak_angus_0eaae9a924.jpg"
-        },
-        {
-            "id": "vegetable1",
-            "title_news": "Vegetable chow mein",
-            "link_news": "<p>Ini <span style=\"color: #ff0000;\">adalah</span> contoh<strong>penulisan</strong> berita pada aplikasi <span style=\"text-decoration:underline;\"><em><strong>Project News</strong></em></span></p>",
-            "image_link": "https://www.fooddudes.ie/wp-content/uploads/2020/04/vegetable_FoodDudess.jpg"
-        }
-    ]
+  "DATA_NEWS": [
+    {
+      "id": "cheese1",
+      "title_news": "Kapal Tunu Pratama Jaya Bawa Puluhan Penumpang Tenggelam di Selat Bali",
+      "link_news": "<p>Kapal Motor Penumpang (KMP) Tunu Pratama Jaya yang membawa puluhan orang penumpang tenggelam di Selat Bali, Rabu (2/7/2025) malam sekitar pukul 23:35 WIB.</p><p>Wahyu Setia Budi Koordinator Pos SAR Banyuwangi membenarkan insiden tenggelamnya KMP Tunu Pratama Jaya yang membawa puluhan penumpang tersebut saat berada dalam lintasan Ketapang-Gilimanuk.</p><p>“KMP Tunu Pratama Jaya bertolak dari Pelabuhan Ketapang, Kabupaten Banyuwangi sekitar pukul 22:56 WIB menuju Pelabuhan Gilimanuk, Kabupaten Jembrana, Bali,” kata Wahyu saat dihubungi dari Situbondo, Jawa Timur, Kamis (3/7/2025) dini hari, seperti dilansir <em>Antara.</em></p><p>Menurut dia, kapal feri di lintasan Ketapang-Gilimanuk itu tenggelam sekitar pukul 23:35 WIB sebelum sampai di Pelabuhan Gilimanuk.</p><p>Wahyu menyebutkan data jumlah penumpang atau manifes KMP Tunu Pratama Jaya mengangkut sebanyak 53 orang penumpang 12 orang kru kapal dan 22 unit kendaraan.(ant/ipg)</p>",
+      "image_link": "https://www.suarasurabaya.net/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-27-at-10.31.59-840x493.jpeg.webp"
+    },
+    {
+      "id": "croissants1",
+      "title_news": "Legitimasi Versus Legalitas Izin Tambang",
+      "link_news": "<p>Izin usaha pertambangan bisa saja diklaim legal karena telah memenuhi syarat administratif berupa dokumen pengajuan atau rencana kerja dan anggaran biaya. Namun ia bisa jadi tidak punya legitimasi karena mengabaikan partisipasi masyarakat adat, merusak kelestarian lingkungan, dan tak menghormati hak ulayat sebagaimana mandat konstitusi.</p><p>Dalam konteks tambang nikel di Raja Ampat, kita menyaksikan situasi pertambangan yang legal, tapi tidak <em>legitimate</em>. Buktinya, masyarakat adat di Distrik Waigeo Barat, Raja Ampat, memprotes kehadiran aktivitas tambang nikel. Itu merupakan penanda bahwa kegiatan ekstraktif terhadap sumber daya alam tak memperoleh legitimasi secara sosial meski perusahaan mengurus dokumen perizinan.</p><p>Presiden Prabowo Subianto memang telah mencabut empat izin tambang di Raja Ampat. Namun, jika kita menyimak alasan pemerintah mencabut izin tersebut, tak satu pun menyebutkan hal itu didasari pengakuan atas hak masyarakat adat. Dasar pertimbangan pemerintah bukan penghargaan atas partisipasi dan ruang hidup masyarakat adat di Raja Ampat, melainkan baru sebatas pelanggaran prosedural. Itulah sebabnya izin PT Gag tak dicabut karena pemerintah semata-mata melihat perusahaan itu sudah menyusun rencana kegiatan dan anggaran biaya untuk mendapatkan izin. Padahal wilayah Pulau Gag juga termasuk tanah adat bagi masyarakat setempat.</p><p>Praktik eksploitatif sumber daya alam yang tak punya legitimasi juga bisa ditemui dalam izin tambang mineral lain dan perkebunan. Di Halmahera Tengah, Maluku Utara, komunitas adat Sawai dan Tobelo Dalam memprotes tambang nikel karena merusak lingkungan serta mengancam tempat tinggal mereka. Dalam sektor perkebunan, masyarakat adat Laman Kinipan di Kalimantan Tengah berkonflik dengan perusahaan yang menguasai konsesi sawit sejak 2011. Ada tokoh adat Laman Kinipan yang ditangkap karena mempertahankan tanah leluhur.</p><p>Cara pemerintah dan perusahaan memaknai aspek legalitas dan legitimasi dalam rezim izin pertambangan dan perkebunan tak lepas dari perspektif mereka melihat tanah. Dalam kacamata hak asasi manusia, tanah bukan hanya properti, melainkan ruang hidup, spiritualitas, dan identitas kelompok.</p><p>Ruang itu tak pernah netral, sebagaimana gagasan Henri Lefebvre dan David Harvey. Ruang mencerminkan kepentingan kelompok dominan. Dalam pandangan kapitalisme neoliberal Harvey, negara dan korporasi berkongsi untuk menciptakan ruang yang bisa mengakumulasi keuntungan, bukan mendukung kehidupan sosial.</p><p>Demi mencapai akumulasi keuntungan yang besar, mereka menciptakan praktik akumulasi melalui perampasan atau <em>accumulation by dispossession</em>. Negara tak lagi menjadi pihak yang netral karena terlibat dalam produksi ruang yang menyingkirkan masyarakat adat. Mestinya yang paling layak menentukan nasib dan makna suatu ruang atau tanah adalah masyarakat adat yang mendiami wilayah tersebut secara turun-temurun.</p>",
+      "image_link": "https://images-tm.tempo.co/all/2025/07/03/890283/890283_1200.jpg"
+    },
+    {
+      "id": "steak1",
+      "title_news": "Dendeng Ayam Batokok, Resep Praktis untuk Teman Nasi Panas yang Menggugah Selera!",
+      "link_news": "<p>Dendeng batokok, yang biasanya terbuat dari daging sapi, kali ini hadir dengan sentuhan baru menggunakan daging ayam, menciptakan cita rasa khas Sumatra Barat yang unik dan menggugah selera.</p>",
+      "image_link": "https://cdns.klimg.com/resized/670x335/p/headline/rasakan-kenikmatan-dendeng-aya-419da224.jpg"
+    },
+    {
+      "id": "vegetable1",
+      "title_news": "Jadi Camilan Kesukaan, Intip Trik Rahasia Goreng Pisang Kipas yang Krispi Kering dan Tidak Berminyak",
+      "link_news": "<p>Siapa sangka, kunci untuk menciptakan gorengan pisang kipas yang super crispy dan bebas minyak terletak pada satu bahan sederhana: margarin! Resep yang dibagikan oleh Muni Rahayu Ningsing di kanal YouTube-nya ini benar-benar menggugah selera. Hasilnya? Renyah di luar, lembut di dalam, dan tetap kering meski telah digoreng.</p><p>Dengan bahan-bahan yang terjangkau dan cara pembuatan yang mudah, kamu bisa menyajikan gorengan berkualitas tinggi yang tak kalah dengan jajanan kaki lima favorit. Rahasia utamanya bukan hanya pada adonan, tetapi juga pada teknik mengiris pisang dan suhu minyak saat menggoreng.</p>",
+      "image_link": "https://cdns.klimg.com/resized/646x323/p/headline/jadi-camilan-kesukaan-intip-tr-5d4a2b23.jpg"
+    }
+  ]
 }

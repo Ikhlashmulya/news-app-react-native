@@ -24,13 +24,14 @@ export default function NewsItem(props: {
           flexDirection: "row",
           paddingStart: 10,
           gap: 10,
+          paddingEnd: 100,
         }}
       >
         <Image
           style={{ width: 75, height: 75 }}
           source={{ uri: props.image_link }}
         />
-        <Text>{props.title_news}</Text>
+        <Text style={{ fontWeight: "bold" }}>{props.title_news}</Text>
       </View>
     </TouchableOpacity>
   );
